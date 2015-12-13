@@ -1,0 +1,4 @@
+*.py
+!tieba.py
+*.json
+*.pyc
